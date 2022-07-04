@@ -14,6 +14,8 @@ public class CameraShake : MonoBehaviour
     //カメラポジ
     private Vector3 camPos;
 
+    private int test = 1;
+
     //格納：実際に揺らす数値
     private float cameraShakingOffset_X, cameraShakingOffset_Y;
 
